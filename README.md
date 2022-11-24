@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Tanvir Miah Shagar</h1>
 <h3 align="center">A passionate Full stack Android/IOS Developer, Data Analytics, Graphics Designer</h3>
+<img align="right" alt="coding" width="400" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Feconomictimes.indiatimes.com%2Fprime%2Ftechnology-and-startups%2Fbooting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster%2Fprimearticleshow%2F84146083.cms&psig=AOvVaw3OCaLsC8ElIpJI_neg81lf&ust=1669396310355000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLi3sYKox_sCFQAAAAAdAAAAABAI">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtanvirmiahshagar&label=Profile%20views&color=0e75b6&style=flat" alt="mdtanvirmiahshagar" /> </p>
