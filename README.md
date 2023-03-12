@@ -40,14 +40,14 @@
 
 <h3 align="left">Socials</h3>
               
-<p align="left">
+
  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-tanvir-miah-s-993377168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-tanvir-miah-s-993377168/" height="30" width="40" /></a>
 
 
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc750voi8_4peh4vhon0zhwq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc750voi8_4peh4vhon0zhwq" height="30" width="40" /></a>
 
-</p>
+
 
 
 
