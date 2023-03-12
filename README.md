@@ -21,20 +21,45 @@
 
 - 📫 How to reach me **mdtanvirshagar@gmail.com** **mdshagar@mygsuite.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials</h3>
+<div id="badges">              
+<p align="left">
+ 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-tanvir-miah-s-993377168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-tanvir-miah-s-993377168/" height="30" width="40" /></a>
+
+
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc750voi8_4peh4vhon0zhwq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc750voi8_4peh4vhon0zhwq" height="30" width="40" /></a>
+
+
+
+</p>
+</div>
+
+
+
+
+<h3 align="left">Tech & Problem Solving</h3>
 <div id="badges">              
 <p align="left">
  
 <a href="https://dev.to/https://dev.to/mdtanvirmiahshagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mdtanvirmiahshagar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-tanvir-miah-s-993377168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-tanvir-miah-s-993377168/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/tanvir500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/tanvir500" height="30" width="40" /></a>
+
 <a href="https://www.behance.net/https://www.behance.net/mdtanvir5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/mdtanvir5" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc750voi8_4peh4vhon0zhwq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc750voi8_4peh4vhon0zhwq" height="30" width="40" /></a>
+
+<a href="https://dribbble.com/https://dribbble.com/tanvir500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/tanvir500" height="30" width="40" /></a>
+
+
+
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/tanvir35_3088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tanvir35_3088" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/https://leetcode.com/mdtanvirshagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mdtanvirshagar/" height="30" width="40" /></a>
 
 </p>
 </div>
+
+
+
+
 
 
 
