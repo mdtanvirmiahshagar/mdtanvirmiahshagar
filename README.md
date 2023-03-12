@@ -15,9 +15,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdtanvirmiahshagar" alt="mdtanvirmiahshagar" /></a> </p>
 
-- 🌱 I’m currently learning **App Developement with Dart-Flutter , Python-Django, **
+- 🔭 I’m currently working on **App Developing, Data Analysis, Research, Big Data, Machine Learning, Airtifial Intelligence **
 
-- 💬 Ask me about **Technology, Business, Innovative Ideas, Related to Tech  **
+- 🌱 I’m currently learning **App Developement with Dart-Flutter , Python-Django,Frameworks**
+
+- 👯 I’m looking to collaborate on **Any Projects**
+
+- 🤝 I’m looking for help with **Any Projects, Ideas**
+
+- 👨‍💻 All of my projects are available at [myportfolio](myportfolio)
+
+- 📝 I regularly write articles on [articles.com](articles.com)
+
+- 💬 Ask me about **Technology, Business, Innovative Ideas, Related to Tech**
+
+- 📫 How to reach me **mdtanvirshagar@gmail.com mdshagar@mygsuite.com**
+
+- 📄 Know about my experiences [drive](drive)
+
+- ⚡ Fun fact **lala**
 
 - 📫 How to reach me **mdtanvirshagar@gmail.com** **mdshagar@mygsuite.com**
 
@@ -50,6 +66,14 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/tanvir35_3088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tanvir35_3088" height="30" width="40" /></a>
 
 <a href="https://www.leetcode.com/https://leetcode.com/mdtanvirshagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mdtanvirshagar/" height="30" width="40" /></a>
+
+<a href="https://codepen.io/https://codepen.io/mdtanvirmiahshagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mdtanvirmiahshagar" height="30" width="40" /></a>
+
+<a href="https://kaggle.com/https://www.kaggle.com/mdtanvirmiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mdtanvirmiah" height="30" width="40" /></a>
+
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@mdtanvirshagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@mdtanvirshagar" height="30" width="40" /></a>
+
+
 
 </p>
 </div>
