@@ -15,9 +15,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdtanvirmiahshagar" alt="mdtanvirmiahshagar" /></a> </p>
 
-- 🌱 I’m currently learning **App Developement , Python-Django**
+- 🌱 I’m currently learning **App Developement with Dart-Flutter , Python-Django, **
 
-- 💬 Ask me about **Dart-Flutter, Java, C, C++, Python, Project Ideas, Graphics Design.**
+- 💬 Ask me about **Technology, Business, Innovative Ideas, **
 
 - 📫 How to reach me **mdtanvirshagar@gmail.com** **mdshagar@mygsuite.com**
 
