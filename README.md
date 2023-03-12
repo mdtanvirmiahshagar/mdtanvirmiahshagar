@@ -7,7 +7,7 @@
                                                                                                                              
 
 <h1 align="center">Hi 👋, I'm Md. Tanvir Miah Shagar</h1>
-<h3 align="center">Android Developer with Dart-Flutter, Data Analytics, Graphics Design, UI Design, Database, Frontend Design with HTML-CSS-JS-React</h3>
+<h3 align="center">Android & IOS Developer with Dart-Flutter,IOS Dev With Swift Data Analytics, Graphics Design, UI Design, Database, Frontend Design with HTML-CSS-JS-React</h3>
 
 
 
@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdtanvirmiahshagar" alt="mdtanvirmiahshagar" /></a> </p>
 
-- 🔭 I’m currently working on **App Developing, Data Analysis, Research, Big Data, Machine Learning, Airtifial Intelligence **
+- 🔭 I’m currently working on **App Developing,IOS Dev Data Analysis, Research, Big Data, Machine Learning, Airtifial Intelligence **
 
 - 🌱 I’m currently learning **App Developement with Dart-Flutter , Python-Django,Frameworks**
 
