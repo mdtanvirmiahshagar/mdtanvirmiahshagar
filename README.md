@@ -38,7 +38,6 @@
 
 - ⚡ Fun fact **lala**
 
-- 📫 How to reach me **mdtanvirshagar@gmail.com** **mdshagar@mygsuite.com**
 
 <h3 align="left">Socials</h3>
               
