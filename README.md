@@ -9,7 +9,7 @@
                                                                                                                              
 
 <h1 align="center">Hi 👋, I'm Md. Tanvir Miah Shagar</h1>
-<h3 align="center">Android & IOS Developer with Dart-Flutter,IOS Dev With Swift, Data Analytics, Graphics Design, UI Design, Database, Frontend Design with HTML-CSS-JS-React</h3>
+<h3 align="center">Android & IOS Developer with Flutter,IOS Dev With Swift, Data Analytics, Graphics Design, UI Design, Database, Frontend Design with HTML-CSS-JS-React</h3>
 
 
 
