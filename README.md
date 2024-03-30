@@ -19,7 +19,7 @@
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2 align="center">
-    My Tech Stack
+    My Tech Journey
     <a>
         <img align="center" src="https://user-images.githubusercontent.com/52236473/210716459-e792742d-9443-4a83-96c4-fea099a560b7.png" width="30" />   
     <a/>
@@ -61,10 +61,10 @@
     <a/>
 </h2>
 <p align="center">
-    <a href="https://github.com/sumit-sharma-02/airbnb" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Airbnb Clone&color=f43f5e&logo=airbnb&logoColor=FFFFFF&label=" alt="Airbnb clone" />
+    <a href="" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Airbnb Clone &color=f43f5e&logo=airbnb&logoColor=FFFFFF&label=" alt="Emart App" />
     </a>
-    <a href="https://github.com/sumit-sharma-02/portfolio" target="blank">
+    <a href="" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=pink&logo=portfolio&logoColor=FFFFFF&label=" alt="Portfolio" />
     </a>    
     <a href="https://github.com/sumit-sharma-02/crafty-commerce" target="blank">
@@ -114,26 +114,26 @@
     <a/>
 </h2>
 <p align="center">
-    <a href="https://github.com/sumit-sharma-02/crafty-commerce">
+    <a href="">
         <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=crafty-commerce&locale=en&border_radius=0&theme=dark" alt="crafty-commerce" />
     </a>
-    <a href="https://github.com/sumit-sharma-02/airbnb">
+    <a href="">
         <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=airbnb&locale=en&border_radius=0&theme=dark" alt="crafty-commerce" />
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/sumit-sharma-02/spacex-capsules">
+    <a href="">
         <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=spacex-capsules&locale=en&border_radius=0&theme=dark" alt="crafty-commerce" />
     </a>
-    <a href="https://github.com/sumit-sharma-02/tikkaway">
+    <a href="">
         <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=tikkaway&locale=en&border_radius=0&theme=dark" alt="tikkaway" />
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/sumit-sharma-02/mean-agency">
+    <a href="">
         <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=mean-agency&locale=en&border_radius=0&theme=dark" alt="mean-agency" />
     </a>
-    <a href="https://github.com/sumit-sharma-02/portfolio">
+    <a href="">
         <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=sumit-sharma-02&repo=portfolio&locale=en&border_radius=0&theme=dark" alt="portfolio" />
     </a>
 </p>
@@ -168,20 +168,18 @@
     <a/>
 </h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/sumitsharma002/">
+    <a href="https://www.linkedin.com/in/md-tanvir-miah-s-993377168/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sumitsharma002/" />
     </a>
-    <a href="https://twitter.com/sumitsharma002">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/sumitsharma002" />
-    </a>
-    <a title="sumitsharma9968@gmail.com" href="mailto:sumitsharma9968@gmail.com">
+
+    <a title="mdtanvirshagar.engr@gmail.com" href="mdtanvrishagar.engr@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sumitsharma9968@gmail.com" />
     </a>
 </p>
 <br>
     
 <!----------------------------------- Support Section ------------------------------------>
-<h2 align="center">
+<!-- <h2 align="center">
     Support me
     <img align="center" src="https://user-images.githubusercontent.com/52236473/210721322-3f8b4d92-5aa7-447e-aae1-083bd0c7893d.png" width="30" />  
 </h2>
