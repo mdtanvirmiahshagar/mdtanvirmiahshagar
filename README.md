@@ -149,16 +149,6 @@
 </p>
 <br>
 
-<!----------------------------------- Stack Overflow Stats Section ------------------------------------>
-<h2 align="center">
-    My Stack Overflow Stats
-    <a>
-        <img align="center" src="https://user-images.githubusercontent.com/52236473/210717541-d04de2c8-6180-4608-bf9a-366b155f403e.png" width="30" />
-    <a/>
-</h2>
-<p align="center">
-    <img align="center" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=17976599&show_icons=true&theme=dark" alt="Stack Overflow Stats" />
-</p>
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 <h2 align="center">
