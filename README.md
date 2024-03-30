@@ -8,10 +8,10 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <p align="center">
-      <a href="https://github.com/sumit-sharma-02/sumit-sharma-02">
+      <a href="https://github.com/mdtanvirmiahshagar">
         <img src="https://komarev.com/ghpvc/?username=sumit-sharma-02&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
       </a>
-      <a href="[https://stackoverflow.com/users/17976599/](https://stackoverflow.com/users/15695952/md-tanvir-miah-shagar)">
+      <a href="https://stackoverflow.com/users/15695952/md-tanvir-miah-shagar">
         <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/17976599?style=for-the-badge&logo=stackoverflow&logoColor=orange&color=orange&label=Stack+Overflow">
       </a>
 </p>
