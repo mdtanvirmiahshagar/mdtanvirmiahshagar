@@ -52,20 +52,17 @@
 
 <!--Reaction-->
 <table>
-
   <tr>
     <td colspan="2" align="center">
       <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg" alt="https://github.com/mdtanvirmiahshagar/mdtanvirmiahshagar"></img>
       <img width="900" height="1" alt="">
     </td>
   </tr>
-</table>
+<!--</table> -->
 <!--/reaction-->
 
-
-
 <!--achivement-->
-<table>
+<!--<table> -->
 
   <tr>
     <td colspan="2" align="center">
